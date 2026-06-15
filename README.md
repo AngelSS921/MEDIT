@@ -20,7 +20,7 @@
 - View Weekly Reports
 - Accept or Reject Link requests with Patients
 - Receive Patient Updates
-- 
+  
 ## Technologies Used
 - Frontend
 - HTML
