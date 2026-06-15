@@ -105,11 +105,11 @@ http://localhost:5000
 - Arpitha Nair
 
 ## My Contributions
-- **Java Swing GUI**: Built all windows, forms, and buttons.
-- **Dashboard Routing**: Created smooth navigation between user roles.
-- **Interface Layouts**: Structured clean tables, screens, and search filters.
-- **Input Validation**: Added form checks for secure logins and data entry.
-
+- **HTML Structure**: Created the main layout templates and forms for all user screens.
+- **CSS Styling**: Styled the dashboard views and alert modals for clean presentation.
+- **JavaScript Routing**: Handled screen switching and UI transitions between dashboards dynamically.
+- **Form Validation**: Used vanilla JavaScript to check input values before submission.
+- 
 ## Academic Project
 This project is developed for academic and educational purposes.
 
