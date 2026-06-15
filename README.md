@@ -47,7 +47,7 @@
 ## Installation
 ### Clone Repository
 ```bash
-- git clone https://github.com/yourusername/MediTrack.git
+git clone https://github.com/yourusername/MediTrack.git
 ```
 
 ### Move into Project Directory
